@@ -1,4 +1,10 @@
-# 🌱 Bhoomitra – Smart Compost & Soil Health Monitoring System
+> "वृक्षो रक्षति रक्षितः"  
+> "Vṛkṣo rakṣati rakṣitaḥ"  
+> — "A tree protects those who protect it."
+
+Bhoomitra – मित्रं भूमेः | Friend of the Soil  
+🌱 A smart, community-powered solution to regenerate soil, reduce waste, and build greener futures for India’s towns and cities.
+🌱 Bhoomitra – Smart Compost & Soil Health Monitoring System
 
 **Bhoomitra** (Friend of the Soil) is a low-cost, solar-powered IoT device designed to automate composting and monitor soil health in community spaces. Built using ESP32 and MicroPython, it supports moisture control, temperature sensing, real-time MQTT data streaming, and community dashboards.
 
