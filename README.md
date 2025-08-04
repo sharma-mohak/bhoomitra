@@ -80,14 +80,6 @@ Supports SDGs: Climate Action, Sustainable Cities, Zero Hunger, Innovation.
 
 ---
 
-## 📷 Screenshots & Diagrams
-
-![Bhoomitra Setup](images/bhoomitra-setup.jpg)
-![Wiring](hardware/wiring-diagram.png)
-![Dashboard](images/grafana-dashboard.png)
-
----
-
 ## 📜 License
 
 MIT License – Free to use, improve, and scale.
