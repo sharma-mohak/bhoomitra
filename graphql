@@ -1,0 +1,8 @@
+bhoomitra-iot/
+├── firmware/          # All MicroPython code (main.py, boot.py, etc.)
+├── hardware/          # Wiring diagrams, circuit images, schematics
+├── docs/              # Reports, PDFs, documentation
+├── images/            # Logos, photos, UI screenshots
+├── README.md          # Project overview (very important!)
+├── .gitignore         # To exclude unnecessary files
+├── LICENSE            # (Optional but good for open source)
